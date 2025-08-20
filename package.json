@@ -22,6 +22,6 @@
   "homepage": "https://github.com/testingnotebook/cypress-cloud-example#readme",
   "dependencies": {},
   "devDependencies": {
-    "cypress": "^14.0.0"
+    "cypress": "^15.0.0"
   }
 }
